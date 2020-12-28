@@ -33,7 +33,7 @@
       <itunes:author>Jack Busch</itunes:author>
       <title>Teaser</title>
       <pubDate>Mon, 28 Dec 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://gourmetbreakfast.github.io/audio/teaser.mp3" type="audio/mpeg" length="51" />
+      <enclosure url="https://gourmetbreakfast.github.io/audio/Teaser.mp3" type="audio/mpeg" length="51" />
       <itunes:duration>00:51</itunes:duration>
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
