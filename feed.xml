@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>The Date</title>
+    <googleplay:author>Jack Busch</googleplay:author>
+    <rawvoice:rating>TV-G</rawvoice:rating>
+    <rawvoice:location>Marshall Twp, PA</rawvoice:location>
+    <rawvoice:frequency>Daily</rawvoice:frequency>
+    <author>Jack Busch</author>
+    <itunes:author>Jack Busch</itunes:author>
+    <itunes:email>jack@jackbusch.com</itunes:email>
+    <itunes:category text="Audio Blogs" />
+    <image>
+      <url>https://gourmetbreakfast.github.io/icon.png</url>
+      <title>The Date</title>
+      <link>https://gourmetbreakfast.github.io/</link>
+    </image>
+    <itunes:owner>
+      <itunes:name>Jack Busch</itunes:name>
+      <itunes:email>jack@jackbusch.com</itunes:email>
+    </itunes:owner>
+    <itunes:keywords>Time and space</itunes:keywords>
+    <copyright>John Busch 2020</copyright>
+    <description>A daily podcast devoted to the date.</description>
+    <googleplay:image href="https://gourmetbreakfast.github.io/icon.png" />
+    <language>en-us</language>
+    <itunes:explicit>no</itunes:explicit>
+    <pubDate>Fri, 01 Jan 2021 13:00:00 PDT</pubDate>
+    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
+    <itunes:image href="https://gourmetbreakfast.github.io/icon.png" />
+    <item>
+      <author>Jack Busch</author>
+      <itunes:author>Jack Busch</itunes:author>
+      <title>Teaser</title>
+      <pubDate>Mon, 28 Dec 2020 13:00:00 GMT</pubDate>
+      <enclosure url="https://gourmetbreakfast.github.io/audio/teaser.mp3" type="audio/mpeg" length="51" />
+      <itunes:duration>00:51</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>
+Stay tuned for a daily podcast that will change the world insofar that there will now also be this podcast in the world.
+        </description>
+    </item>
+  </channel>
+</rss>
