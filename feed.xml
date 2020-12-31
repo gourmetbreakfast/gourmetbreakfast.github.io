@@ -38,13 +38,13 @@
       <guid isPermaLink="false">cepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
-Stay tuned for a daily podcast that will change the world insofar that there will now also be this podcast in the world.
+Stay tuned for a daily podcast that will change the world insofar that there will now also be this podcast in the world. (No firecat.)
         </description>
     </item>
 <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
-      <title>Teaser</title>
+      <title>January 1, 2021</title>
       <pubDate>Fri, 01 Jan 2021 00:01:00 EST</pubDate>
       <enclosure url="https://gourmetbreakfast.github.io/audio/2021-01-01.mp3" type="audio/mpeg" length="142000" />
       <itunes:duration>00:06</itunes:duration>
@@ -52,5 +52,27 @@ Stay tuned for a daily podcast that will change the world insofar that there wil
       <itunes:explicit>no</itunes:explicit>
       <description>The world will never be the same.</description>
     </item>
+  <item>
+      <author>GourmetBreakfast</author>
+      <itunes:author>GourmetBreakfast</itunes:author>
+      <title>January 2, 2021</title>
+      <pubDate>Sat, 02 Jan 2021 00:01:00 EST</pubDate>
+      <enclosure url="https://gourmetbreakfast.github.io/audio/2021-01-02.mp3" type="audio/mpeg" length="136000" />
+      <itunes:duration>00:05</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Overcoming the sophomore slump.</description>
+    </item>  
+  <item>
+      <author>GourmetBreakfast</author>
+      <itunes:author>GourmetBreakfast</itunes:author>
+      <title>January 3, 20201</title>
+      <pubDate>Sun, 03 Jan 2021 00:01:00 EST</pubDate>
+      <enclosure url="https://gourmetbreakfast.github.io/audio/2021-01-03.mp3" type="audio/mpeg" length="118000" />
+      <itunes:duration>00:05</itunes:duration>
+      <guid isPermaLink="false">cepod01</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Hat trick.</description>
+    </item>  
   </channel>
 </rss>
