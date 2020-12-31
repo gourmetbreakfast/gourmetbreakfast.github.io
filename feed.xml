@@ -26,7 +26,7 @@
     <language>en-us</language>
     <itunes:explicit>no</itunes:explicit>
     <pubDate>Fri, 01 Jan 2021 13:00:00 PDT</pubDate>
-    <link>https://rodydavis.github.io/podcast-player/feed.xml</link>
+    <link>https://gourmetbreakfast.github.io/feed.xml</link>
     <itunes:image href="https://gourmetbreakfast.github.io/icon.png" />
     <item>
       <author>GourmetBreakfast</author>
@@ -35,7 +35,7 @@
       <pubDate>Mon, 28 Dec 2020 13:00:00 GMT</pubDate>
       <enclosure url="https://gourmetbreakfast.github.io/audio/Teaser.mp3" type="audio/mpeg" length="122865" />
       <itunes:duration>00:51</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">datepod01</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>
 Stay tuned for a daily podcast that will change the world insofar that there will now also be this podcast in the world. (No firecat.)
@@ -48,7 +48,7 @@ Stay tuned for a daily podcast that will change the world insofar that there wil
       <pubDate>Fri, 01 Jan 2021 00:01:00 EST</pubDate>
       <enclosure url="https://gourmetbreakfast.github.io/audio/2021-01-01.mp3" type="audio/mpeg" length="142000" />
       <itunes:duration>00:06</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">datepod02</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>The world will never be the same.</description>
     </item>
@@ -59,7 +59,7 @@ Stay tuned for a daily podcast that will change the world insofar that there wil
       <pubDate>Sat, 02 Jan 2021 00:01:00 EST</pubDate>
       <enclosure url="https://gourmetbreakfast.github.io/audio/2021-01-02.mp3" type="audio/mpeg" length="136000" />
       <itunes:duration>00:05</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">datepod03</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>Overcoming the sophomore slump.</description>
     </item>  
@@ -70,9 +70,20 @@ Stay tuned for a daily podcast that will change the world insofar that there wil
       <pubDate>Sun, 03 Jan 2021 00:01:00 EST</pubDate>
       <enclosure url="https://gourmetbreakfast.github.io/audio/2021-01-03.mp3" type="audio/mpeg" length="118000" />
       <itunes:duration>00:05</itunes:duration>
-      <guid isPermaLink="false">cepod01</guid>
+      <guid isPermaLink="false">datepod04</guid>
       <itunes:explicit>no</itunes:explicit>
       <description>Hat trick.</description>
     </item>  
+  <item>
+      <author>GourmetBreakfast</author>
+      <itunes:author>GourmetBreakfast</itunes:author>
+      <title>January 4, 20201</title>
+      <pubDate>Mon, 04 Jan 2021 00:01:00 EST</pubDate>
+      <enclosure url="https://gourmetbreakfast.github.io/audio/2021-01-04.mp3" type="audio/mpeg" length="118000" />
+      <itunes:duration>00:05</itunes:duration>
+      <guid isPermaLink="false">datepod05</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>Mondays are an illusion, as is orange juice.</description>
+    </item>
   </channel>
 </rss>
