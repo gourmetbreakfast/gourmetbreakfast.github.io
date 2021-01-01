@@ -28,19 +28,7 @@
     <pubDate>Fri, 01 Jan 2021 13:00:00 PDT</pubDate>
     <link>https://gourmetbreakfast.github.io/feed.xml</link>
     <itunes:image href="https://gourmetbreakfast.github.io/icon.png" />
-    <item>
-      <author>GourmetBreakfast</author>
-      <itunes:author>GourmetBreakfast</itunes:author>
-      <title>Teaser</title>
-      <pubDate>Mon, 28 Dec 2020 13:00:00 GMT</pubDate>
-      <enclosure url="https://gourmetbreakfast.github.io/audio/Teaser.mp3" type="audio/mpeg" length="122865" />
-      <itunes:duration>00:51</itunes:duration>
-      <guid isPermaLink="false">datepod01</guid>
-      <itunes:explicit>no</itunes:explicit>
-      <description>
-Stay tuned for a daily podcast that will change the world insofar that there will now also be this podcast in the world. (No firecat.)
-        </description>
-    </item>
+
     
   <item>
       <author>GourmetBreakfast</author>
