@@ -53,7 +53,7 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Overcoming the sophomore slump.</description>
     </item>  
-    <!--
+
   <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
@@ -65,6 +65,7 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Hat trick.</description>
     </item>  
+    <!--
   <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
