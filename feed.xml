@@ -157,10 +157,6 @@
       <description>Always regret making ham panini.</description>
     </item>
 
-     
-    
-        
-    <!--
       <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
@@ -172,7 +168,6 @@
       <itunes:explicit>no</itunes:explicit>
       <description>This is the day my daughter was born.</description>
     </item>
--->
-     
+
   </channel>
 </rss>
