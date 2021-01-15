@@ -204,6 +204,7 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Cross out the Is.</description>
     </item>
+    <!--
                       <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
@@ -215,6 +216,6 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Underwater the fish don't stink.</description>
     </item>
-
+-->
   </channel>
 </rss>
