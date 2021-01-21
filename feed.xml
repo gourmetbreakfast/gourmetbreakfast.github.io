@@ -275,7 +275,7 @@
       <itunes:explicit>no</itunes:explicit>
       <description>For a camel, every day is hump day.</description>
     </item>
-    <!--    
+     
    <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
@@ -285,9 +285,9 @@
       <itunes:duration>00:30</itunes:duration>
       <guid isPermaLink="false">datepod22</guid>
       <itunes:explicit>no</itunes:explicit>
-      <description> Eira glass.</description>
+      <description> Eira glass. (That's right, folks, the podcast has guest hosts now!) </description>
     </item>
--->
+ 
       <!--    
    <item>
       <author>GourmetBreakfast</author>
