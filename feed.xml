@@ -287,8 +287,7 @@
       <itunes:explicit>no</itunes:explicit>
       <description> Eira glass. (That's right, folks, the podcast has guest hosts now!) </description>
     </item>
- 
-      <!--    
+   
    <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
@@ -300,6 +299,6 @@
       <itunes:explicit>no</itunes:explicit>
       <description>SqueakyFret2.0.</description>
     </item>
--->
+
 </channel>
 </rss>
