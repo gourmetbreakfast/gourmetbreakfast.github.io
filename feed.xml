@@ -299,7 +299,6 @@
       <itunes:explicit>no</itunes:explicit>
       <description>SqueakyFret2.0.</description>
     </item>
-<!--
    <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
@@ -311,6 +310,5 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Saturday! They have Saturday!</description>
     </item>
--->
 </channel>
 </rss>
