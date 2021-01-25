@@ -323,7 +323,7 @@
       <description>Our first outdoor podcast episode. </description>
     </item>
     
-<!--
+
   <item>
       <author>GourmetBreakfast</author>
       <itunes:author>GourmetBreakfast</itunes:author>
@@ -335,7 +335,6 @@
       <itunes:explicit>no</itunes:explicit>
       <description>Knock knock knockin' on Monday's door.</description>
     </item>
--->
 
 
 </channel>
