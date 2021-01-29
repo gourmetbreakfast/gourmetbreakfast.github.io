@@ -316,7 +316,7 @@
       <itunes:author>GourmetBreakfast</itunes:author>
       <title>January 24, 2021</title>
       <pubDate>Sun 24, Jan 2021 00:01:00 EST</pubDate>
-      <enclosure url="https://gourmetbreakfast.github.io/audio/20210124.wav" type="audio/wav" length="1440000" />
+      <enclosure url="https://gourmetbreakfast.github.io/audio/20210124.mp3" type="audio/mpeg" length="197484" />
       <itunes:duration>00:09</itunes:duration>
       <guid isPermaLink="false">datepod25</guid>
       <itunes:explicit>no</itunes:explicit>
