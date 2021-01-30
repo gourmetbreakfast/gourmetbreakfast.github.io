@@ -385,6 +385,18 @@
       <itunes:explicit>no</itunes:explicit>
       <description>The only reason I ever wanted to join a gang was the prospect of gang vocals.</description>
     </item>
+
+  <item>
+      <author>GourmetBreakfast</author>
+      <itunes:author>GourmetBreakfast</itunes:author>
+      <title>January 30, 2021</title>
+      <pubDate>Sat 30, Jan 2021 00:01:00 EST</pubDate>
+      <enclosure url="https://gourmetbreakfast.github.io/audio/20210130.mp3" type="audio/mpeg" length="86000" />
+      <itunes:duration>00:06</itunes:duration>
+      <guid isPermaLink="false">datepod31</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <description>The penultimate January day</description>
+    </item>
    
 </channel>
 
