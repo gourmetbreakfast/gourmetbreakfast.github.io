@@ -297,7 +297,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>The penultimate January day</description> 
 </item> 
-<!-- 
 <item> 
 <title>January 31, 2021</title> 
 <pubDate>Sun, 31 Jan 2021 00:01:00 EST</pubDate> 
@@ -306,6 +305,16 @@
 <guid isPermaLink="false">20210131</guid> 
 <itunes:explicit>no</itunes:explicit> 
 <description>Every Sunday is Sunday, Sunday, Sunday!!!!!</description> 
+</item> 
+<!-- 
+<item> 
+<title>February 01, 2021</title> 
+<pubDate>Mon, 01 Feb 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210201.mp3" type="audio/mpeg" length="495563" /> 
+<itunes:duration>20</itunes:duration> 
+<guid isPermaLink="false">20210201</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Matt Augsburger kicking off February with our first possible copyright infringement. Bring it on, Lennon estate!</description> 
 </item> 
 --> 
  
