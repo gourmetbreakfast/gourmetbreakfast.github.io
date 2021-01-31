@@ -297,7 +297,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>The penultimate January day</description> 
 </item> 
-<!-- 
 <item> 
 <title>January 31, 2021</title> 
 <pubDate>Sun, 31 Jan 2021 00:01:00 EST</pubDate> 
@@ -307,7 +306,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Every Sunday is Sunday, Sunday, Sunday!!!!!</description> 
 </item> 
---> 
  
 </channel>
 </rss>
