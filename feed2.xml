@@ -383,11 +383,11 @@
 <item> 
 <title>February 09, 2021</title> 
 <pubDate>Tue, 09 Feb 2021 00:01:00 EST</pubDate> 
-<enclosure url="https://gourmetbreakfast.github.io/audio/20210209.mp3" type="audio/mpeg" length="1506043" /> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210209.mp3" type="audio/mpeg" length="1506039" /> 
 <itunes:duration>62</itunes:duration> 
 <guid isPermaLink="false">20210209</guid> 
 <itunes:explicit>no</itunes:explicit> 
-<description>Am I listening to nostalgic music because I feel nostalgic or do I feel nostalgic because I listen to nostalgic music? This is from Gosh - Cities on the Plain </description> 
+<description>Am I listening to nostalgic music because I feel nostalgic or do I feel nostalgic because I listen to nostalgic music? This is from Gosh Cities on the Plain </description> 
 </item> 
 <item> 
 <title>February 10, 2021</title> 
@@ -431,6 +431,6 @@
 <description>Hey! Danny from @WrkngStiffsPod is back with some exciting news!</description> 
 </item> 
 --> 
- 
+
 </channel>
 </rss>
