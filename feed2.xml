@@ -284,7 +284,7 @@
 <item> 
 <title>January 29, 2021</title> 
 <pubDate>Fri, 29 Jan 2021 00:01:00 EST</pubDate> 
-<enclosure url="https://gourmetbreakfast.github.io/audio/20210129.mp3" type="audio/mpeg" length="441669" /> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210129.mp3" type="audio/mpeg" length="466654" /> 
 <itunes:duration>19</itunes:duration> 
 <guid isPermaLink="false">20210129</guid> 
 <itunes:explicit>no</itunes:explicit> 
@@ -478,6 +478,15 @@
 <guid isPermaLink="false">20210219</guid> 
 <itunes:explicit>no</itunes:explicit> 
 <description>I dunno man guess I just got Salad Fingers on the mind</description> 
+</item> 
+<item> 
+<title>February 20, 2021</title> 
+<pubDate>Sat, 20 Feb 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210220.mp3" type="audio/mpeg" length="135544" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210220</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>I wake up every morning like this.</description> 
 </item> 
 <!-- 
 <item> 
