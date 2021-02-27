@@ -387,7 +387,7 @@
 <itunes:duration>62</itunes:duration> 
 <guid isPermaLink="false">20210209</guid> 
 <itunes:explicit>no</itunes:explicit> 
-<description>Am I listening to nostalgic music because I feel nostalgic or do I feel nostalgic because I listen to nostalgic music? This is from Gosh Cities on the Plain </description> 
+<description>Am I listening to nostalgic music because I feel nostalgic or do I feel nostalgic because I listen to nostalgic music? This is from Gosh Cities on the Plain </description> 
 </item> 
 <item> 
 <title>February 10, 2021</title> 
@@ -542,7 +542,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>For this final Friday of February, I commissioned three ambient dreamscapes from @jmckim825 for me to talk over. In an effort to keep costs low for you, the listener, I did not pay him.</description> 
 </item> 
-<!-- 
 <item> 
 <title>February 27, 2021</title> 
 <pubDate>Sat, 27 Feb 2021 00:01:00 EST</pubDate> 
@@ -552,7 +551,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>My friend Ben Bowser is awesome. No relation to King Koopa, whose FIRST name is Bowser, that is simply not how names work let it go.</description> 
 </item> 
---> 
 
 </channel>
 </rss>
