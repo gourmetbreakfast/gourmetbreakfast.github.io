@@ -821,6 +821,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Monday March 29 2021</description> 
 </item> 
+<item> 
+<title>March 30, 2021</title> 
+<pubDate>Tue, 30 Mar 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210330.mp3" type="audio/mpeg" length="799431" /> 
+<itunes:duration>33</itunes:duration> 
+<guid isPermaLink="false">20210330</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>New pedal day</description> 
+</item> 
 
 </channel>
 </rss>
