@@ -884,6 +884,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>I did not realize that most people take Monday off too </description> 
 </item> 
+<item> 
+<title>April 06, 2021</title> 
+<pubDate>Tue, 06 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210406.mp3" type="audio/mpeg" length="101177" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210406</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>i realized i sounded too excited from the outset but by then it was way too late to recover</description> 
+</item> 
 
 </channel>
 </rss>
