@@ -920,6 +920,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>non-fungible tolkien</description> 
 </item> 
+<item> 
+<title>April 10, 2021</title> 
+<pubDate>Sat, 10 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210410.mp3" type="audio/mpeg" length="773807" /> 
+<itunes:duration>32</itunes:duration> 
+<guid isPermaLink="false">20210410</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>New to the pod? Start here to catch up on some of the recurring themes from past episodes.</description> 
+</item> 
 
 </channel>
 </rss>
