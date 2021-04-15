@@ -965,6 +965,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>I started a band with my internet friend on April 14th so we called it April 14th this is a true story</description> 
 </item> 
+<item> 
+<title>April 15, 2021</title> 
+<pubDate>Thu, 15 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210415.mp3" type="audio/mpeg" length="69824" /> 
+<itunes:duration>2</itunes:duration> 
+<guid isPermaLink="false">20210415</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>guys i got a free trial of a transcription service they did a great job should i sign up</description> 
+</item> 
 
 </channel>
 </rss>
