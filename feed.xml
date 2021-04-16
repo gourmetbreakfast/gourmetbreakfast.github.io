@@ -974,6 +974,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>guys i got a free trial of a transcription service they did a great job should i sign up</description> 
 </item> 
+<item> 
+<title>April 16, 2021</title> 
+<pubDate>Fri, 16 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210416.mp3" type="audio/mpeg" length="516425" /> 
+<itunes:duration>21</itunes:duration> 
+<guid isPermaLink="false">20210416</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Folks I bring you content every single day in 2021 sometimes there are slip ups but we did not go to print with this error uncorrected </description> 
+</item> 
 
 </channel>
 </rss>
