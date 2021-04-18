@@ -983,6 +983,26 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Folks I bring you content every single day in 2021 sometimes there are slip ups but we did not go to print with this error uncorrected </description> 
 </item> 
+<item> 
+<title>April 17, 2021</title> 
+<pubDate>Sat, 17 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210417.mp3" type="audio/mpeg" length="198225" /> 
+<itunes:duration>8</itunes:duration> 
+<guid isPermaLink="false">20210417</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Sadder-day </description> 
+</item> 
+<!-- 
+<item> 
+<title>April 18, 2021</title> 
+<pubDate>Sun, 18 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210418.mp3" type="audio/mpeg" length="88903" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210418</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Guys I forgot to post yesterdays episode until almost the last minute </description> 
+</item> 
+--> 
 
 </channel>
 </rss>
