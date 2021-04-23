@@ -1037,6 +1037,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Happy earf day!</description> 
 </item> 
+<item> 
+<title>April 23, 2021</title> 
+<pubDate>Fri, 23 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210423.mp3" type="audio/mpeg" length="63432" /> 
+<itunes:duration>2</itunes:duration> 
+<guid isPermaLink="false">20210423</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>they c all me 2 shots mcgee</description> 
+</item> 
 
 </channel>
 </rss>
