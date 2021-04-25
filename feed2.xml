@@ -1055,6 +1055,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Saturday April 24 2021</description> 
 </item> 
+<item> 
+<title>April 25, 2021</title> 
+<pubDate>Sun, 25 Apr 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210425.mp3" type="audio/mpeg" length="72729" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210425</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>still feel like i shouldve paid my taxes by now</description> 
+</item> 
 
 </channel>
 </rss>
