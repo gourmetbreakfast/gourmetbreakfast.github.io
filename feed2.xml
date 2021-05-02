@@ -1118,6 +1118,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Its going to be May I mean it already is</description> 
 </item> 
+<item> 
+<title>May 02, 2021</title> 
+<pubDate>Sun, 02 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210502.mp3" type="audio/mpeg" length="648743" /> 
+<itunes:duration>27</itunes:duration> 
+<guid isPermaLink="false">20210502</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>almost can play 4 bars of anything without screwing up</description> 
+</item> 
 
 </channel>
 </rss>
