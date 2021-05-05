@@ -1145,6 +1145,26 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Happy Quatro de Mayo!</description> 
 </item> 
+<item> 
+<title>May 05, 2021</title> 
+<pubDate>Wed, 05 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210505.mp3" type="audio/mpeg" length="281179" /> 
+<itunes:duration>11</itunes:duration> 
+<guid isPermaLink="false">20210505</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Sinko day mayhem</description> 
+</item> 
+<!-- 
+<item> 
+<title>May 06, 2021</title> 
+<pubDate>Thu, 06 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210506.mp3" type="audio/mpeg" length="786385" /> 
+<itunes:duration>32</itunes:duration> 
+<guid isPermaLink="false">20210506</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Mayflour, Mayflour sale-ing prowed and frie</description> 
+</item> 
+--> 
 
 </channel>
 </rss>
