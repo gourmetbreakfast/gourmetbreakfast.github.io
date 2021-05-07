@@ -1163,6 +1163,26 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Mayflour, Mayflour sale-ing prowed and frie</description> 
 </item> 
+<item> 
+<title>May 07, 2021</title> 
+<pubDate>Fri, 07 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210507.mp3" type="audio/mpeg" length="116471" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210507</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>It&apos;s me out of the house!</description> 
+</item> 
+<!-- 
+<item> 
+<title>May 08, 2021</title> 
+<pubDate>Sat, 08 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210508.mp3" type="audio/mpeg" length="185565" /> 
+<itunes:duration>7</itunes:duration> 
+<guid isPermaLink="false">20210508</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Fill &apos;er up!</description> 
+</item> 
+--> 
 
 </channel>
 </rss>
