@@ -1208,6 +1208,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Here it is the Tuesday one!</description> 
 </item> 
+<item> 
+<title>May 12, 2021</title> 
+<pubDate>Wed, 12 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210512.mp3" type="audio/mpeg" length="1857901" /> 
+<itunes:duration>77</itunes:duration> 
+<guid isPermaLink="false">20210512</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Good things come to those who wait, sometimes. Other times, you get the same stuff while you wait after you wait</description> 
+</item> 
 
 </channel>
 </rss>
