@@ -11,7 +11,7 @@
     <itunes:name>GourmetBreakfast</itunes:name>
     <itunes:email>jackbusch@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Audio Blogs" />`
+    <itunes:category text="Audio Blogs" />
     <image>
       <url>https://gourmetbreakfast.github.io/icon.png</url>
       <title>GourmetBreakfast presents... The Date</title>
