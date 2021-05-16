@@ -1254,17 +1254,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>There&apos;s an echo in here and I think it&apos;s your sister.</description> 
 </item> 
-<!-- 
-<item> 
-<title>May 17, 2021</title> 
-<pubDate>Mon, 17 May 2021 00:01:00 EST</pubDate> 
-<enclosure url="https://gourmetbreakfast.github.io/audio/20210517.mp3" type="audio/mpeg" length="508399" /> 
-<itunes:duration>21</itunes:duration> 
-<guid isPermaLink="false">20210517</guid> 
-<itunes:explicit>no</itunes:explicit> 
-<description>Maybe you think @betsybus is telling a child "here comes a truck!" but actually it&apos;s you she is telling--you are the one who is excited about a truck</description> 
-</item> 
---> 
 
 </channel>
 </rss>
