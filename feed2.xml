@@ -6,12 +6,13 @@
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Marshall Twp, PA</rawvoice:location>
     <rawvoice:frequency>Daily</rawvoice:frequency>
+    <copyright>&#xA9; 2021 John B</copyright>
     <itunes:author>GourmetBreakfast</itunes:author>
     <itunes:owner>
     <itunes:name>GourmetBreakfast</itunes:name>
     <itunes:email>jackbusch@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Audio Blogs" />`
+    <itunes:category text="Audio Blogs" />
     <image>
       <url>https://gourmetbreakfast.github.io/icon.png</url>
       <title>GourmetBreakfast presents... The Date</title>
@@ -1253,7 +1254,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>There&apos;s an echo in here and I think it&apos;s your sister.</description> 
 </item> 
-<!-- 
 <item> 
 <title>May 17, 2021</title> 
 <pubDate>Mon, 17 May 2021 00:01:00 EST</pubDate> 
@@ -1263,7 +1263,6 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Maybe you think @betsybus is telling a child "here comes a truck!" but actually it&apos;s you she is telling--you are the one who is excited about a truck</description> 
 </item> 
---> 
 
 </channel>
 </rss>
