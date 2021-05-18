@@ -1263,6 +1263,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Maybe you think @betsybus is telling a child "here comes a truck!" but actually it&apos;s you she is telling--you are the one who is excited about a truck</description> 
 </item> 
+<item> 
+<title>May 18, 2021</title> 
+<pubDate>Tue, 18 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210518.mp3" type="audio/mpeg" length="63465" /> 
+<itunes:duration>2</itunes:duration> 
+<guid isPermaLink="false">20210518</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Tuesday never feels fun</description> 
+</item> 
 
 </channel>
 </rss>
