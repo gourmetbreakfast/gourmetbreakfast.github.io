@@ -1272,6 +1272,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Tuesday never feels fun</description> 
 </item> 
+<item> 
+<title>May 19, 2021</title> 
+<pubDate>Wed, 19 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210519.mp3" type="audio/mpeg" length="602087" /> 
+<itunes:duration>25</itunes:duration> 
+<guid isPermaLink="false">20210519</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>If you listen very closely, halfway through you can hear a tiny Gus voice say "help"</description> 
+</item> 
 
 </channel>
 </rss>
