@@ -1290,6 +1290,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Thursday May 20th</description> 
 </item> 
+<item> 
+<title>May 21, 2021</title> 
+<pubDate>Fri, 21 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210521.mp3" type="audio/mpeg" length="733615" /> 
+<itunes:duration>30</itunes:duration> 
+<guid isPermaLink="false">20210521</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Today is a palindrome date. That loud thwomping sound you hear is Miles flooring the sustain pedal like he&apos;s flooring it in a getaway car post-heist </description> 
+</item> 
 
 </channel>
 </rss>
