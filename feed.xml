@@ -1315,8 +1315,7 @@
 <guid isPermaLink="false">20210523</guid> 
 <itunes:explicit>no</itunes:explicit> 
 <description>Soooonday</description> 
-</item> 
-<!-- 
+</item>  
 <item> 
 <title>May 24, 2021</title> 
 <pubDate>Mon, 24 May 2021 00:01:00 EST</pubDate> 
@@ -1325,8 +1324,7 @@
 <guid isPermaLink="false">20210524</guid> 
 <itunes:explicit>no</itunes:explicit> 
 <description>On location at Onondaga Lake Park</description> 
-</item> 
---> 
+</item>
 
 </channel>
 </rss>
