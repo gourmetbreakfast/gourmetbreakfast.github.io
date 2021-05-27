@@ -1343,6 +1343,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>This is a hand-powered audio message that you have to charge by turning a wheel... a lot apparently At Minute Man National Historical Park</description> 
 </item> 
+<item> 
+<title>May 27, 2021</title> 
+<pubDate>Thu, 27 May 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210527.mp3" type="audio/mpeg" length="232681" /> 
+<itunes:duration>20</itunes:duration> 
+<guid isPermaLink="false">20210527</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Man playing saxophoone outside the New England Aquarium</description> 
+</item> 
 
 </channel>
 </rss>
