@@ -6,12 +6,13 @@
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Marshall Twp, PA</rawvoice:location>
     <rawvoice:frequency>Daily</rawvoice:frequency>
+    <copyright>&#xA9; 2021 John B</copyright>
     <itunes:author>GourmetBreakfast</itunes:author>
     <itunes:owner>
     <itunes:name>GourmetBreakfast</itunes:name>
     <itunes:email>jackbusch@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Audio Blogs" />`
+    <itunes:category text="Audio Blogs" />
     <image>
       <url>https://gourmetbreakfast.github.io/icon.png</url>
       <title>GourmetBreakfast presents... The Date</title>
@@ -1396,6 +1397,15 @@
 <guid isPermaLink="false">20210601</guid> 
 <itunes:explicit>no</itunes:explicit> 
 <description>Joon</description> 
+</item> 
+<item> 
+<title>June 02, 2021</title> 
+<pubDate>Wed, 02 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210602.mp3" type="audio/mpeg" length="78989" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210602</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>whens day</description> 
 </item> 
 
 </channel>
