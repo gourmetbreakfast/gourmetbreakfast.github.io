@@ -1407,6 +1407,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>whens day</description> 
 </item> 
+<item> 
+<title>June 03, 2021</title> 
+<pubDate>Thu, 03 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210603.mp3" type="audio/mpeg" length="113103" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210603</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>If you listen to my podcast on 2x speed I am going to call the cops on you</description> 
+</item> 
 
 </channel>
 </rss>
