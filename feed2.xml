@@ -1425,6 +1425,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>The episode is not officially late until it is tomorrow</description> 
 </item> 
+<item> 
+<title>June 05, 2021</title> 
+<pubDate>Sat, 05 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210605.mp3" type="audio/mpeg" length="129205" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210605</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>OK Ok ok this one is back to the normal schedule sorry sorry </description> 
+</item> 
 
 </channel>
 </rss>
