@@ -1443,6 +1443,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>June 6</description> 
 </item> 
+<item> 
+<title>June 07, 2021</title> 
+<pubDate>Mon, 07 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210607.mp3" type="audio/mpeg" length="286951" /> 
+<itunes:duration>11</itunes:duration> 
+<guid isPermaLink="false">20210607</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>back to the grind lol </description> 
+</item> 
 
 </channel>
 </rss>
