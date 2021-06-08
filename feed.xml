@@ -1452,6 +1452,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>back to the grind lol </description> 
 </item> 
+<item> 
+<title>June 08, 2021</title> 
+<pubDate>Tue, 08 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210608.mp3" type="audio/mpeg" length="74088" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210608</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Saw a firefly this weekend</description> 
+</item> 
 
 </channel>
 </rss>
