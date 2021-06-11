@@ -1479,6 +1479,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Hi</description> 
 </item> 
+<item> 
+<title>June 11, 2021</title> 
+<pubDate>Fri, 11 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210611.mp3" type="audio/mpeg" length="172539" /> 
+<itunes:duration>7</itunes:duration> 
+<guid isPermaLink="false">20210611</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>As Scientist I am also conducting Experiments like what would it sound like if I threw my phone across the room during a podcast</description> 
+</item> 
 
 </channel>
 </rss>
