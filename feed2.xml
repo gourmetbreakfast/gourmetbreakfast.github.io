@@ -1488,6 +1488,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>As Scientist I am also conducting Experiments like what would it sound like if I threw my phone across the room during a podcast</description> 
 </item> 
+<item> 
+<title>June 12, 2021</title> 
+<pubDate>Sat, 12 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210612.mp3" type="audio/mpeg" length="416529" /> 
+<itunes:duration>17</itunes:duration> 
+<guid isPermaLink="false">20210612</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Tee ballers</description> 
+</item> 
 
 </channel>
 </rss>
