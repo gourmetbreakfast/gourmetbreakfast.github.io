@@ -1506,6 +1506,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Maybe I said the wrong month we will fix it in post</description> 
 </item> 
+<item> 
+<title>June 14, 2021</title> 
+<pubDate>Mon, 14 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210614.mp3" type="audio/mpeg" length="145555" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20210614</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>the ides of june almost </description> 
+</item> 
 
 </channel>
 </rss>
