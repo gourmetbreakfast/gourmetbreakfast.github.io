@@ -1533,6 +1533,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Attituesday</description> 
 </item> 
+<item> 
+<title>June 17, 2021</title> 
+<pubDate>Thu, 17 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210617.mp3" type="audio/mpeg" length="630851" /> 
+<itunes:duration>26</itunes:duration> 
+<guid isPermaLink="false">20210617</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Running away from the coffee grinder</description> 
+</item> 
 
 </channel>
 </rss>
