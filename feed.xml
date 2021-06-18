@@ -1542,6 +1542,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Running away from the coffee grinder</description> 
 </item> 
+<item> 
+<title>June 18, 2021</title> 
+<pubDate>Fri, 18 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210618.mp3" type="audio/mpeg" length="94013" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210618</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>ladies and gentleman the weakened</description> 
+</item> 
 
 </channel>
 </rss>
