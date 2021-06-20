@@ -1560,6 +1560,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>hard to believe we have 2 summer holidays now</description> 
 </item> 
+<item> 
+<title>June 20, 2021</title> 
+<pubDate>Sun, 20 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210620.mp3" type="audio/mpeg" length="533607" /> 
+<itunes:duration>22</itunes:duration> 
+<guid isPermaLink="false">20210620</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Juen 20 2021</description> 
+</item> 
 
 </channel>
 </rss>
