@@ -1605,6 +1605,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Sorry Shelley I am trying to catch up here</description> 
 </item> 
+<item> 
+<title>June 25, 2021</title> 
+<pubDate>Fri, 25 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210625.mp3" type="audio/mpeg" length="65189" /> 
+<itunes:duration>2</itunes:duration> 
+<guid isPermaLink="false">20210625</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>this is my TGIF voice</description> 
+</item> 
 
 </channel>
 </rss>
