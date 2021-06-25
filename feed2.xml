@@ -1596,6 +1596,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>see monster</description> 
 </item> 
+<item> 
+<title>June 24, 2021</title> 
+<pubDate>Thu, 24 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210624.mp3" type="audio/mpeg" length="139535" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210624</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Sorry Shelley I am trying to catch up here</description> 
+</item> 
 
 </channel>
 </rss>
