@@ -1614,6 +1614,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>this is my TGIF voice</description> 
 </item> 
+<item> 
+<title>June 21, 2021</title> 
+<pubDate>Mon, 21 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210626.mp3" type="audio/mpeg" length="168911" /> 
+<itunes:duration>7</itunes:duration> 
+<guid isPermaLink="false">20210626</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>this is @iamchrisjamison at Blueberry Hill</description> 
+</item> 
 
 </channel>
 </rss>
