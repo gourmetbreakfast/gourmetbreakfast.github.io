@@ -1623,6 +1623,33 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>this is @iamchrisjamison at Blueberry Hill</description> 
 </item> 
+<item> 
+<title>June 27, 2021</title> 
+<pubDate>Sun, 27 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210627.mp3" type="audio/mpeg" length="247767" /> 
+<itunes:duration>10</itunes:duration> 
+<guid isPermaLink="false">20210627</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Todaze date is</description> 
+</item> 
+<item> 
+<title>June 28, 2021</title> 
+<pubDate>Mon, 28 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210628.mp3" type="audio/mpeg" length="318643" /> 
+<itunes:duration>13</itunes:duration> 
+<guid isPermaLink="false">20210628</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>On monday I never go to work</description> 
+</item> 
+<item> 
+<title>June 29, 2021</title> 
+<pubDate>Tue, 29 Jun 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210629.mp3" type="audio/mpeg" length="1136565" /> 
+<itunes:duration>47</itunes:duration> 
+<guid isPermaLink="false">20210629</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Thursdays are a holiday sorry</description> 
+</item> 
 
 </channel>
 </rss>
