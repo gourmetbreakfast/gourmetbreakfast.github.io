@@ -1668,6 +1668,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>some ppl just wake up at 500am in this kind of mood</description> 
 </item> 
+<item> 
+<title>July 02, 2021</title> 
+<pubDate>Fri, 02 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210702.mp3" type="audio/mpeg" length="725486" /> 
+<itunes:duration>30</itunes:duration> 
+<guid isPermaLink="false">20210702</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>the mandolin pills didnot work</description> 
+</item> 
 
 </channel>
 </rss>
