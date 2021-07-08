@@ -1713,6 +1713,24 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Descending stairs</description> 
 </item> 
+<item> 
+<title>July 07, 2021</title> 
+<pubDate>Wed, 07 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210707.mp3" type="audio/mpeg" length="112979" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210707</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Midweeek Pod</description> 
+</item> 
+<item> 
+<title>July 08, 2021</title> 
+<pubDate>Thu, 08 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210708.mp3" type="audio/mpeg" length="77955" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210708</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Excessively thirsty Thursday? Ask your doctor about Type II diabetes</description> 
+</item> 
 
 </channel>
 </rss>
