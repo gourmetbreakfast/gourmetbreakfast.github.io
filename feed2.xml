@@ -1731,6 +1731,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Excessively thirsty Thursday? Ask your doctor about Type II diabetes</description> 
 </item> 
+<item> 
+<title>July 09, 2021</title> 
+<pubDate>Fri, 09 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210709.mp3" type="audio/mpeg" length="134867" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210709</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Itsa Friday!</description> 
+</item> 
 
 </channel>
 </rss>
