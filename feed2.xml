@@ -1776,6 +1776,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>i am in a hurry because i put a black bean burger on the stove right before deciding to record htis podcast gotta go</description> 
 </item> 
+<item> 
+<title>July 14, 2021</title> 
+<pubDate>Wed, 14 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210714.mp3" type="audio/mpeg" length="110079" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210714</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Wo</description> 
+</item> 
 
 </channel>
 </rss>
