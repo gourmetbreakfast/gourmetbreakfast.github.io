@@ -1785,6 +1785,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Wo</description> 
 </item> 
+<item> 
+<title>July 15, 2021</title> 
+<pubDate>Thu, 15 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210715.mp3" type="audio/mpeg" length="412137" /> 
+<itunes:duration>17</itunes:duration> 
+<guid isPermaLink="false">20210715</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>soemtimes i feel like my whole life is that feeling when you walk into a room and immediately forget why you came there</description> 
+</item> 
 
 </channel>
 </rss>
