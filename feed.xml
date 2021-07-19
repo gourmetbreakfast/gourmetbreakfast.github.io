@@ -1812,6 +1812,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>SAturday July 17 2021</description> 
 </item> 
+<item> 
+<title>July 18, 2021</title> 
+<pubDate>Sun, 18 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210718.mp3" type="audio/mpeg" length="680368" /> 
+<itunes:duration>28</itunes:duration> 
+<guid isPermaLink="false">20210718</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>podcast interrupted by honey nut cheerios</description> 
+</item> 
 
 </channel>
 </rss>
