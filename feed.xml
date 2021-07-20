@@ -1821,6 +1821,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>podcast interrupted by honey nut cheerios</description> 
 </item> 
+<item> 
+<title>July 19, 2021</title> 
+<pubDate>Mon, 19 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210719.mp3" type="audio/mpeg" length="792598" /> 
+<itunes:duration>33</itunes:duration> 
+<guid isPermaLink="false">20210719</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>i dunt understand Why you dont underSTAANd me</description> 
+</item> 
 
 </channel>
 </rss>
