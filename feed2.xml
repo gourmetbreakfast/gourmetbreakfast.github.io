@@ -1857,6 +1857,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Thursday 22!</description> 
 </item> 
+<item> 
+<title>July 23, 2021</title> 
+<pubDate>Fri, 23 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210723.mp3" type="audio/mpeg" length="147529" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20210723</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Friday </description> 
+</item> 
 
 </channel>
 </rss>
