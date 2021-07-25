@@ -1866,6 +1866,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Friday </description> 
 </item> 
+<item> 
+<title>July 24, 2021</title> 
+<pubDate>Sat, 24 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210724.mp3" type="audio/mpeg" length="64619" /> 
+<itunes:duration>2</itunes:duration> 
+<guid isPermaLink="false">20210724</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>This is another podcast</description> 
+</item> 
 
 </channel>
 </rss>
