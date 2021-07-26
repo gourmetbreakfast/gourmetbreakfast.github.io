@@ -1875,6 +1875,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>This is another podcast</description> 
 </item> 
+<item> 
+<title>July 25, 2021</title> 
+<pubDate>Sun, 25 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210725.mp3" type="audio/mpeg" length="272061" /> 
+<itunes:duration>11</itunes:duration> 
+<guid isPermaLink="false">20210725</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>it is scientiffically proven that Sun Chips are the loudest chip </description> 
+</item> 
 
 </channel>
 </rss>
