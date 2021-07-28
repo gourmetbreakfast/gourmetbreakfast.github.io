@@ -1893,6 +1893,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Draining the kiddie pool</description> 
 </item> 
+<item> 
+<title>July 27, 2021</title> 
+<pubDate>Tue, 27 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210727.mp3" type="audio/mpeg" length="87703" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210727</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>there will never be anotehr tuesday this july </description> 
+</item> 
 
 </channel>
 </rss>
