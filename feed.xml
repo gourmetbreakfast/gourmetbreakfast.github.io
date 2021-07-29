@@ -1902,6 +1902,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>there will never be anotehr tuesday this july </description> 
 </item> 
+<item> 
+<title>July 28, 2021</title> 
+<pubDate>Wed, 28 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210728.mp3" type="audio/mpeg" length="553154" /> 
+<itunes:duration>23</itunes:duration> 
+<guid isPermaLink="false">20210728</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>if you are ever wondering whats going on in my head its usually this</description> 
+</item> 
 
 </channel>
 </rss>
