@@ -1928,6 +1928,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>The penultimate July 2021 day</description> 
 </item> 
+<item> 
+<title>July 31, 2021</title> 
+<pubDate>Sat, 31 Jul 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210731.mp3" type="audio/mpeg" length="158105" /> 
+<itunes:duration>13</itunes:duration> 
+<guid isPermaLink="false">20210731</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>what do you hear more, bugs or highway?</description> 
+</item> 
 
 </channel>
 </rss>
