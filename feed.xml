@@ -1937,6 +1937,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>what do you hear more, bugs or highway?</description> 
 </item> 
+<item> 
+<title>August 01, 2021</title> 
+<pubDate>Sun, 01 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210801.mp3" type="audio/mpeg" length="54131" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210801</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>This month is Gus' month</description> 
+</item> 
 
 </channel>
 </rss>
