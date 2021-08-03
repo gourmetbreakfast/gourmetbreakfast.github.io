@@ -6,12 +6,13 @@
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Marshall Twp, PA</rawvoice:location>
     <rawvoice:frequency>Daily</rawvoice:frequency>
+    <copyright>&#xA9; 2021 John B</copyright>
     <itunes:author>GourmetBreakfast</itunes:author>
     <itunes:owner>
     <itunes:name>GourmetBreakfast</itunes:name>
     <itunes:email>jackbusch@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Audio Blogs" />`
+    <itunes:category text="Audio Blogs" />
     <image>
       <url>https://gourmetbreakfast.github.io/icon.png</url>
       <title>GourmetBreakfast presents... The Date</title>
@@ -1945,6 +1946,15 @@
 <guid isPermaLink="false">20210801</guid> 
 <itunes:explicit>no</itunes:explicit> 
 <description>This month is Gus' month</description> 
+</item> 
+<item> 
+<title>August 02, 2021</title> 
+<pubDate>Mon, 02 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210802.mp3" type="audio/mpeg" length="90501" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210802</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Gus 2</description> 
 </item> 
 
 </channel>
