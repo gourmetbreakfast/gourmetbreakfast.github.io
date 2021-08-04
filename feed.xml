@@ -1956,6 +1956,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Gus 2</description> 
 </item> 
+<item> 
+<title>August 03, 2021</title> 
+<pubDate>Tue, 03 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210803.mp3" type="audio/mpeg" length="159045" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20210803</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Gus 3</description> 
+</item> 
 
 </channel>
 </rss>
