@@ -31,15 +31,6 @@
     <link>https://gourmetbreakfast.github.io/feed.xml</link>
     <itunes:image href="https://gourmetbreakfast.github.io/icon.png" />
     <item> 
-<title>August 05, 2021</title> 
-<pubDate>Thu, 05 Aug 2021 00:01:00 EST</pubDate> 
-<enclosure url="https://gourmetbreakfast.github.io/audio/202100805.mp3" type="audio/mpeg" length="606141" /> 
-<itunes:duration>25</itunes:duration> 
-<guid isPermaLink="false">202100805</guid> 
-<itunes:explicit>no</itunes:explicit> 
-<description>here's a recording of a guy apologizing for riffing on the fiddle</description> 
-</item> 
-<item> 
 <title>January 01, 2021</title> 
 <pubDate>Fri, 01 Jan 2021 00:01:00 EST</pubDate> 
 <enclosure url="https://gourmetbreakfast.github.io/audio/20210101.mp3" type="audio/mpeg" length="146455" /> 
@@ -1982,6 +1973,15 @@
 <guid isPermaLink="false">20210804</guid> 
 <itunes:explicit>no</itunes:explicit> 
 <description>Gus4</description> 
+</item> 
+<item> 
+<title>August 05, 2021</title> 
+<pubDate>Thu, 05 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210805.mp3" type="audio/mpeg" length="606141" /> 
+<itunes:duration>25</itunes:duration> 
+<guid isPermaLink="false">20210805</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>here's a recording of a guy apologizing for riffing on the fiddle</description> 
 </item> 
 
 </channel>
