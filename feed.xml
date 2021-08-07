@@ -1983,6 +1983,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>here's a recording of a guy apologizing for riffing on the fiddle</description> 
 </item> 
+<item> 
+<title>August 06, 2021</title> 
+<pubDate>Fri, 06 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210806.mp3" type="audio/mpeg" length="117327" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210806</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>It's not a tuna!</description> 
+</item> 
 
 </channel>
 </rss>
