@@ -1992,6 +1992,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>It's not a tuna!</description> 
 </item> 
+<item> 
+<title>August 07, 2021</title> 
+<pubDate>Sat, 07 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210807.mp3" type="audio/mpeg" length="157585" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20210807</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>watched an awesome youtube about not stinking up your kitchen when frying it worked</description> 
+</item> 
 
 </channel>
 </rss>
