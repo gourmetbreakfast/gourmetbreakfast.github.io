@@ -2001,6 +2001,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>watched an awesome youtube about not stinking up your kitchen when frying it worked</description> 
 </item> 
+<item> 
+<title>August 08, 2021</title> 
+<pubDate>Sun, 08 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210808.mp3" type="audio/mpeg" length="1231055" /> 
+<itunes:duration>51</itunes:duration> 
+<guid isPermaLink="false">20210808</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>The singing bowls by the henna tattoo tent</description> 
+</item> 
 
 </channel>
 </rss>
