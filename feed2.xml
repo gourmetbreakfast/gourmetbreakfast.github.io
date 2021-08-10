@@ -2010,6 +2010,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>The singing bowls by the henna tattoo tent</description> 
 </item> 
+<item> 
+<title>August 09, 2021</title> 
+<pubDate>Mon, 09 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210809.mp3" type="audio/mpeg" length="111815" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210809</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>bruing</description> 
+</item> 
 
 </channel>
 </rss>
