@@ -2019,6 +2019,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>bruing</description> 
 </item> 
+<item> 
+<title>August 10, 2021</title> 
+<pubDate>Tue, 10 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210810.mp3" type="audio/mpeg" length="323249" /> 
+<itunes:duration>13</itunes:duration> 
+<guid isPermaLink="false">20210810</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>really comin dahn out there</description> 
+</item> 
 
 </channel>
 </rss>
