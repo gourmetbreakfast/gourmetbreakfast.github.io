@@ -2028,6 +2028,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>really comin dahn out there</description> 
 </item> 
+<item> 
+<title>August 11, 2021</title> 
+<pubDate>Wed, 11 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210811.mp3" type="audio/mpeg" length="430881" /> 
+<itunes:duration>17</itunes:duration> 
+<guid isPermaLink="false">20210811</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Am I pronouncing August incorrectly? Like this whole time?</description> 
+</item> 
 
 </channel>
 </rss>
