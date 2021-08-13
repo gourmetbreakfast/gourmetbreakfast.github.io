@@ -2037,6 +2037,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Am I pronouncing August incorrectly? Like this whole time?</description> 
 </item> 
+<item> 
+<title>August 12, 2021</title> 
+<pubDate>Thu, 12 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210812.mp3" type="audio/mpeg" length="716112" /> 
+<itunes:duration>29</itunes:duration> 
+<guid isPermaLink="false">20210812</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>most inspired lyrics are ooo o oo o o oo oo o</description> 
+</item> 
 
 </channel>
 </rss>
