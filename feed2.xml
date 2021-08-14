@@ -6,13 +6,12 @@
     <rawvoice:rating>TV-G</rawvoice:rating>
     <rawvoice:location>Marshall Twp, PA</rawvoice:location>
     <rawvoice:frequency>Daily</rawvoice:frequency>
-    <copyright>&#xA9; 2021 John B</copyright>
     <itunes:author>GourmetBreakfast</itunes:author>
     <itunes:owner>
     <itunes:name>GourmetBreakfast</itunes:name>
     <itunes:email>jackbusch@gmail.com</itunes:email>
     </itunes:owner>
-    <itunes:category text="Audio Blogs" />
+    <itunes:category text="Audio Blogs" />`
     <image>
       <url>https://gourmetbreakfast.github.io/icon.png</url>
       <title>GourmetBreakfast presents... The Date</title>
