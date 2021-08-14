@@ -2046,6 +2046,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>most inspired lyrics are ooo o oo o o oo oo o</description> 
 </item> 
+<item> 
+<title>August 13, 2021</title> 
+<pubDate>Fri, 13 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210813.mp3" type="audio/mpeg" length="333055" /> 
+<itunes:duration>13</itunes:duration> 
+<guid isPermaLink="false">20210813</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>THIS IS A Bird yelling at the wind</description> 
+</item> 
 
 </channel>
 </rss>
