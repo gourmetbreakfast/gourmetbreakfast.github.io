@@ -2081,6 +2081,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>ping pong pod cast</description> 
 </item> 
+<item> 
+<title>August 17, 2021</title> 
+<pubDate>Tue, 17 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210817.mp3" type="audio/mpeg" length="315151" /> 
+<itunes:duration>26</itunes:duration> 
+<guid isPermaLink="false">20210817</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Wonderland</description> 
+</item> 
 
 </channel>
 </rss>
