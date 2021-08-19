@@ -2055,6 +2055,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>THIS IS A Bird yelling at the wind</description> 
 </item> 
+<item> 
+<title>August 18, 2021</title> 
+<pubDate>Wed, 18 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210818.mp3" type="audio/mpeg" length="275312" /> 
+<itunes:duration>11</itunes:duration> 
+<guid isPermaLink="false">20210818</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>whoa whoa whoa</description> 
+</item> 
 
 </channel>
 </rss>
