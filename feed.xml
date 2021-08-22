@@ -2118,6 +2118,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>unce unce unce</description> 
 </item> 
+<item> 
+<title>August 21, 2021</title> 
+<pubDate>Sat, 21 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210821.mp3" type="audio/mpeg" length="81295" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210821</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Scatterday</description> 
+</item> 
 
 </channel>
 </rss>
