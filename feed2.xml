@@ -2136,6 +2136,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>sitting at the dock of the bay</description> 
 </item> 
+<item> 
+<title>August 23, 2021</title> 
+<pubDate>Mon, 23 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210823.mp3" type="audio/mpeg" length="111821" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210823</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>August 23</description> 
+</item> 
 
 </channel>
 </rss>
