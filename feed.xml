@@ -2154,6 +2154,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>August 24</description> 
 </item> 
+<item> 
+<title>August 25, 2021</title> 
+<pubDate>Wed, 25 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210825.mp3" type="audio/mpeg" length="718361" /> 
+<itunes:duration>29</itunes:duration> 
+<guid isPermaLink="false">20210825</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>It were raining</description> 
+</item> 
 
 </channel>
 </rss>
