@@ -2181,6 +2181,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>backyard bugs</description> 
 </item> 
+<item> 
+<title>August 28, 2021</title> 
+<pubDate>Sat, 28 Aug 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210828.mp3" type="audio/mpeg" length="385615" /> 
+<itunes:duration>16</itunes:duration> 
+<guid isPermaLink="false">20210828</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Pay me to be the guy that chooses to play Katy Perry "Fireworks" during the grand finale at Community Days</description> 
+</item> 
 
 </channel>
 </rss>
