@@ -2226,6 +2226,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>septembre</description> 
 </item> 
+<item> 
+<title>September 02, 2021</title> 
+<pubDate>Thu, 02 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210902.mp3" type="audio/mpeg" length="98042" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210902</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>boombcrash</description> 
+</item> 
 
 </channel>
 </rss>
