@@ -2271,6 +2271,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>This is the sound of a boy who was stung twice by a bee then the bee got stuck in his hair </description> 
 </item> 
+<item> 
+<title>September 07, 2021</title> 
+<pubDate>Tue, 07 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210907.mp3" type="audio/mpeg" length="94861" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210907</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>(hand clap emoji) Normalize audio being very quiet (hand clap emoji)</description> 
+</item> 
 
 </channel>
 </rss>
