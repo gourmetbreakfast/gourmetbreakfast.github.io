@@ -2280,6 +2280,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>(hand clap emoji) Normalize audio being very quiet (hand clap emoji)</description> 
 </item> 
+<item> 
+<title>September 08, 2021</title> 
+<pubDate>Wed, 08 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210908.mp3" type="audio/mpeg" length="84163" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210908</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>WEda</description> 
+</item> 
 
 </channel>
 </rss>
