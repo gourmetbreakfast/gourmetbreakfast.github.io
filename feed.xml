@@ -2298,6 +2298,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Sep</description> 
 </item> 
+<item> 
+<title>September 10, 2021</title> 
+<pubDate>Fri, 10 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210910.mp3" type="audio/mpeg" length="138367" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210910</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>ladies and gentlemen, the weakened</description> 
+</item> 
 
 </channel>
 </rss>
