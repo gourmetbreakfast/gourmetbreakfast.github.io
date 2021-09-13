@@ -2316,6 +2316,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>September 11, 2021</description> 
 </item> 
+<item> 
+<title>September 12, 2021</title> 
+<pubDate>Sun, 12 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210912.mp3" type="audio/mpeg" length="86499" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210912</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>just another podcast</description> 
+</item> 
 
 </channel>
 </rss>
