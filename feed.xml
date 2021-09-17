@@ -2352,6 +2352,24 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Wednsday</description> 
 </item> 
+<item> 
+<title>September 16, 2021</title> 
+<pubDate>Thu, 16 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210916.mp3" type="audio/mpeg" length="121073" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210916</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Thursday</description> 
+</item> 
+<item> 
+<title>September 17, 2021</title> 
+<pubDate>Fri, 17 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210917.mp3" type="audio/mpeg" length="125457" /> 
+<itunes:duration>5</itunes:duration> 
+<guid isPermaLink="false">20210917</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Friday</description> 
+</item> 
 
 </channel>
 </rss>
