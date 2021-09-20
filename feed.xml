@@ -2379,6 +2379,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Wurlitzer</description> 
 </item> 
+<item> 
+<title>September 19, 2021</title> 
+<pubDate>Sun, 19 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210919.mp3" type="audio/mpeg" length="542233" /> 
+<itunes:duration>22</itunes:duration> 
+<guid isPermaLink="false">20210919</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>It is ok to have two Wurlitzer episodes in a row, here is the Hoop de doo polka</description> 
+</item> 
 
 </channel>
 </rss>
