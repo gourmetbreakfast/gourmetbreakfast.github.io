@@ -2406,6 +2406,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Today is officially Earth Wind and Fire day so just imagine I did an emo folk cover of September for this podcast instead of phoning it in again</description> 
 </item> 
+<item> 
+<title>September 22, 2021</title> 
+<pubDate>Wed, 22 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210922.mp3" type="audio/mpeg" length="72111" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210922</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Another boring one for you</description> 
+</item> 
 
 </channel>
 </rss>
