@@ -2415,6 +2415,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Another boring one for you</description> 
 </item> 
+<item> 
+<title>September 23, 2021</title> 
+<pubDate>Thu, 23 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210923.mp3" type="audio/mpeg" length="581325" /> 
+<itunes:duration>24</itunes:duration> 
+<guid isPermaLink="false">20210923</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>One giant piano versus one dozen children</description> 
+</item> 
 
 </channel>
 </rss>
