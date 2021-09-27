@@ -2442,6 +2442,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>the saturday content you've been waiting for</description> 
 </item> 
+<item> 
+<title>September 26, 2021</title> 
+<pubDate>Sun, 26 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210926.mp3" type="audio/mpeg" length="93451" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20210926</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Two days before Kyle Ogilvie's birhtday </description> 
+</item> 
 
 </channel>
 </rss>
