@@ -2451,6 +2451,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Two days before Kyle Ogilvie's birhtday </description> 
 </item> 
+<item> 
+<title>September 27, 2021</title> 
+<pubDate>Mon, 27 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210927.mp3" type="audio/mpeg" length="254099" /> 
+<itunes:duration>10</itunes:duration> 
+<guid isPermaLink="false">20210927</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Baddoooofaeg</description> 
+</item> 
 
 </channel>
 </rss>
