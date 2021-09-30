@@ -2469,6 +2469,24 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>is like pyramus or apollo or an archer we dont know</description> 
 </item> 
+<item> 
+<title>September 29, 2021</title> 
+<pubDate>Wed, 29 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210929.mp3" type="audio/mpeg" length="107893" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20210929</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>i deleted twitter from my phone i am only posting via bot now</description> 
+</item> 
+<item> 
+<title>September 30, 2021</title> 
+<pubDate>Thu, 30 Sep 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20210930.mp3" type="audio/mpeg" length="144093" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20210930</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Goodbye septembre</description> 
+</item> 
 
 </channel>
 </rss>
