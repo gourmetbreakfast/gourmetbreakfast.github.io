@@ -2487,6 +2487,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Goodbye septembre</description> 
 </item> 
+<item> 
+<title>October 01, 2021</title> 
+<pubDate>Fri, 01 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211001.mp3" type="audio/mpeg" length="87099" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20211001</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Ah yes, OCTober the eighth month</description> 
+</item> 
 
 </channel>
 </rss>
