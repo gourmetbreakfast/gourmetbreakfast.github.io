@@ -2523,6 +2523,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>I put a low pass filter on Gus' singing along to Louise's slide guitar, as a gift to you the listener</description> 
 </item> 
+<item> 
+<title>October 05, 2021</title> 
+<pubDate>Tue, 05 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211005.mp3" type="audio/mpeg" length="72089" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20211005</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>tueday octo b 5</description> 
+</item> 
 
 </channel>
 </rss>
