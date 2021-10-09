@@ -2550,6 +2550,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>i've had this same office chair for like 15 years should i buy. new one</description> 
 </item> 
+<item> 
+<title>October 08, 2021</title> 
+<pubDate>Fri, 08 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211008.mp3" type="audio/mpeg" length="87051" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20211008</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>ocdohber</description> 
+</item> 
 
 </channel>
 </rss>
