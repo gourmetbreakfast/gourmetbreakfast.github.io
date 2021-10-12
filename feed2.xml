@@ -2577,6 +2577,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>this date is 10/10</description> 
 </item> 
+<item> 
+<title>October 11, 2021</title> 
+<pubDate>Mon, 11 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211011.mp3" type="audio/mpeg" length="157913" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20211011</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Octopusdober 11</description> 
+</item> 
 
 </channel>
 </rss>
