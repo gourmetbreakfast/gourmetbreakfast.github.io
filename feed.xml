@@ -2604,6 +2604,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>It's wnedyasfg</description> 
 </item> 
+<item> 
+<title>October 14, 2021</title> 
+<pubDate>Thu, 14 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211014.mp3" type="audio/mpeg" length="108939" /> 
+<itunes:duration>4</itunes:duration> 
+<guid isPermaLink="false">20211014</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Thursday</description> 
+</item> 
 
 </channel>
 </rss>
