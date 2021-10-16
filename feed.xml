@@ -2613,6 +2613,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Thursday</description> 
 </item> 
+<item> 
+<title>October 15, 2021</title> 
+<pubDate>Fri, 15 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211015.mp3" type="audio/mpeg" length="162539" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20211015</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>October is half oct over</description> 
+</item> 
 
 </channel>
 </rss>
