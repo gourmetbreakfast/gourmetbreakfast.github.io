@@ -2640,6 +2640,24 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>This is my PodCast</description> 
 </item> 
+<item> 
+<title>October 18, 2021</title> 
+<pubDate>Mon, 18 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211018.mp3" type="audio/mpeg" length="93959" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20211018</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Monday</description> 
+</item> 
+<item> 
+<title>October 19, 2021</title> 
+<pubDate>Tue, 19 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211019.mp3" type="audio/mpeg" length="95113" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20211019</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Tuesday</description> 
+</item> 
 
 </channel>
 </rss>
