@@ -2658,6 +2658,24 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>Tuesday</description> 
 </item> 
+<item> 
+<title>October 20, 2021</title> 
+<pubDate>Wed, 20 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211020.mp3" type="audio/mpeg" length="148697" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20211020</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Wednestoberfest</description> 
+</item> 
+<item> 
+<title>October 21, 2021</title> 
+<pubDate>Thu, 21 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211021.mp3" type="audio/mpeg" length="152727" /> 
+<itunes:duration>6</itunes:duration> 
+<guid isPermaLink="false">20211021</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Thurstoberfest</description> 
+</item> 
 
 </channel>
 </rss>
