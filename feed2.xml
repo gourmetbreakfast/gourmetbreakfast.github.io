@@ -2694,6 +2694,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>a nother saturday</description> 
 </item> 
+<item> 
+<title>October 24, 2021</title> 
+<pubDate>Sun, 24 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211024.mp3" type="audio/mpeg" length="430791" /> 
+<itunes:duration>17</itunes:duration> 
+<guid isPermaLink="false">20211024</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Chamber music</description> 
+</item> 
 
 </channel>
 </rss>
