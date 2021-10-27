@@ -2712,6 +2712,15 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>sounds like someones got a case of the case of thes</description> 
 </item> 
+<item> 
+<title>October 26, 2021</title> 
+<pubDate>Tue, 26 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211026.mp3" type="audio/mpeg" length="573719" /> 
+<itunes:duration>23</itunes:duration> 
+<guid isPermaLink="false">20211026</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>rstlne</description> 
+</item> 
 
 </channel>
 </rss>
