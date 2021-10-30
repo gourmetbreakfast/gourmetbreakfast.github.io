@@ -2721,6 +2721,42 @@
 <itunes:explicit>no</itunes:explicit> 
 <description>rstlne</description> 
 </item> 
+<item> 
+<title>October 27, 2021</title> 
+<pubDate>Wed, 27 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211027.mp3" type="audio/mpeg" length="296632" /> 
+<itunes:duration>12</itunes:duration> 
+<guid isPermaLink="false">20211027</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>down on the farm</description> 
+</item> 
+<item> 
+<title>October 28, 2021</title> 
+<pubDate>Thu, 28 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211028.mp3" type="audio/mpeg" length="263384" /> 
+<itunes:duration>10</itunes:duration> 
+<guid isPermaLink="false">20211028</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>DING!!</description> 
+</item> 
+<item> 
+<title>October 29, 2021</title> 
+<pubDate>Fri, 29 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211029.mp3" type="audio/mpeg" length="356201" /> 
+<itunes:duration>14</itunes:duration> 
+<guid isPermaLink="false">20211029</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>Until morale improves</description> 
+</item> 
+<item> 
+<title>October 30, 2021</title> 
+<pubDate>Sat, 30 Oct 2021 00:01:00 EST</pubDate> 
+<enclosure url="https://gourmetbreakfast.github.io/audio/20211030.mp3" type="audio/mpeg" length="73825" /> 
+<itunes:duration>3</itunes:duration> 
+<guid isPermaLink="false">20211030</guid> 
+<itunes:explicit>no</itunes:explicit> 
+<description>all hallows eve eve</description> 
+</item> 
 
 </channel>
 </rss>
